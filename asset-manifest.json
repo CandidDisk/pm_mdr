@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pm_mdr/static/css/main.4da6db5c.chunk.css",
+    "main.js": "/pm_mdr/static/js/main.d241d2f5.chunk.js",
+    "main.js.map": "/pm_mdr/static/js/main.d241d2f5.chunk.js.map",
+    "runtime-main.js": "/pm_mdr/static/js/runtime-main.90fb98c1.js",
+    "runtime-main.js.map": "/pm_mdr/static/js/runtime-main.90fb98c1.js.map",
+    "static/js/2.1d7a9242.chunk.js": "/pm_mdr/static/js/2.1d7a9242.chunk.js",
+    "static/js/2.1d7a9242.chunk.js.map": "/pm_mdr/static/js/2.1d7a9242.chunk.js.map",
+    "index.html": "/pm_mdr/index.html",
+    "precache-manifest.2a67cc24c657aa3dc7ab0a97d6c5b142.js": "/pm_mdr/precache-manifest.2a67cc24c657aa3dc7ab0a97d6c5b142.js",
+    "service-worker.js": "/pm_mdr/service-worker.js",
+    "static/css/main.4da6db5c.chunk.css.map": "/pm_mdr/static/css/main.4da6db5c.chunk.css.map",
+    "static/js/2.1d7a9242.chunk.js.LICENSE.txt": "/pm_mdr/static/js/2.1d7a9242.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pm_mdr/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90fb98c1.js",
+    "static/js/2.1d7a9242.chunk.js",
+    "static/css/main.4da6db5c.chunk.css",
+    "static/js/main.d241d2f5.chunk.js"
+  ]
+}
